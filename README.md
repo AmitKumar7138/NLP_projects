@@ -1,2 +1,2 @@
 # NLP_projects
-Small projects related to sentimentral Analysid from text data using NLP.
+Small projects related to Sentimentral Analysis and Text Classification from text data using NLP.
